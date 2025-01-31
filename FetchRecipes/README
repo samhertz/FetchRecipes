@@ -1,0 +1,19 @@
+### Summary: Include screen shots or a video of your app highlighting its features
+- Added them to the assets file
+
+### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
+- I prioritized making a clean archicture in MVVM, and showing different view states in the app.
+
+### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
+- I spent around 6 hours building the app spread across a few day. I allocated my time to first do development, and finish with testing.
+
+### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
+- Trade off was passing cache service into child views. Could made a UI model that would hold the UIImages
+
+### Weakest Part of the Project: What do you think is the weakest part of your project?
+- Could add more robust caching system and not pass directly to child views
+- Could have also added more logic into which URL is passed into network service layer
+- Could add some tests for decoding the data
+
+### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
+- Excited to hear back about how I built the project!
